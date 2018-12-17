@@ -12,6 +12,8 @@
 		5C626ACC21C78B8A00E2A042 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C626ACA21C78B8A00E2A042 /* Main.storyboard */; };
 		5C626ACE21C78B8C00E2A042 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C626ACD21C78B8C00E2A042 /* Assets.xcassets */; };
 		5C626AD121C78B8C00E2A042 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C626ACF21C78B8C00E2A042 /* LaunchScreen.storyboard */; };
+		5C626AE021C7C1F300E2A042 /* 2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5C626ADE21C7C1F300E2A042 /* 2.jpeg */; };
+		5C626AE121C7C1F300E2A042 /* 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5C626ADF21C7C1F300E2A042 /* 1.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		5C626AD021C78B8C00E2A042 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5C626AD221C78B8C00E2A042 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5C626ADD21C7C0C600E2A042 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		5C626ADE21C7C1F300E2A042 /* 2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpeg; sourceTree = "<group>"; };
+		5C626ADF21C7C1F300E2A042 /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +74,8 @@
 		5C626ADC21C7C0B700E2A042 /* screens */ = {
 			isa = PBXGroup;
 			children = (
+				5C626ADF21C7C1F300E2A042 /* 1.jpeg */,
+				5C626ADE21C7C1F300E2A042 /* 2.jpeg */,
 			);
 			path = screens;
 			sourceTree = "<group>";
@@ -132,6 +138,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5C626AE121C7C1F300E2A042 /* 1.jpeg in Resources */,
+				5C626AE021C7C1F300E2A042 /* 2.jpeg in Resources */,
 				5C626AD121C78B8C00E2A042 /* LaunchScreen.storyboard in Resources */,
 				5C626ACE21C78B8C00E2A042 /* Assets.xcassets in Resources */,
 				5C626ACC21C78B8A00E2A042 /* Main.storyboard in Resources */,
