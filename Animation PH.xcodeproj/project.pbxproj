@@ -22,6 +22,7 @@
 		5C626ACD21C78B8C00E2A042 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5C626AD021C78B8C00E2A042 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5C626AD221C78B8C00E2A042 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5C626ADD21C7C0C600E2A042 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +39,8 @@
 		5C626ABA21C78B8A00E2A042 = {
 			isa = PBXGroup;
 			children = (
+				5C626ADD21C7C0C600E2A042 /* README.md */,
+				5C626ADC21C7C0B700E2A042 /* screens */,
 				5C626AC521C78B8A00E2A042 /* Animation PH */,
 				5C626AC421C78B8A00E2A042 /* Products */,
 			);
@@ -62,6 +65,13 @@
 				5C626AD221C78B8C00E2A042 /* Info.plist */,
 			);
 			path = "Animation PH";
+			sourceTree = "<group>";
+		};
+		5C626ADC21C7C0B700E2A042 /* screens */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = screens;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
